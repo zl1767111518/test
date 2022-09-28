@@ -3,6 +3,6 @@
 int main(void)
 {
 	// master
-	printf("hellolinux(master)");
+	printf("hellolinux\n");
 	return 0;
 }
