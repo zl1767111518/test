@@ -2,6 +2,7 @@
 
 int main(void)
 {
-	printf("hello world init");
+	// master
+	printf("hello world init(master)");
 	return 0;
 }

@@ -2,6 +2,7 @@
 
 int main(void)
 {
-	printf("hellolinux");
+	// master
+	printf("hellolinux(master)");
 	return 0;
 }
